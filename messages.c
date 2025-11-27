@@ -2,12 +2,12 @@
 
 // Oscar's message function.
 // Message format: NPM | Full Name | Message
-void oscar() {
-    puts("0006347853 | Oscar Oscar | Just you wait");
+void max() {
+    puts("2506556044 | Maxi Milion Perkasa Sihotang | rawr");
 }
 
 int main() {
-    oscar();
+    max();
 
     // Call your function after this.
 
